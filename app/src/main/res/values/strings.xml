@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BelajarGetAPI</string>
+
+    <string name="name">Name</string>
+    <string name="species">Species :</string>
+    <string name="human">Human</string>
+    <string name="status">Alive</string>
+</resources>
